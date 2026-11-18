@@ -1,4 +1,3 @@
-<!-- DRAFT: pending native review before publication. -->
 # AI Engineering Playbook
 
 コードエージェントと一緒に、エンジニアリングの規律を捨てずにソフトウェアを作る方法です。
